@@ -1,0 +1,38 @@
+@use '../utils' as *;
+
+footer {
+	// margin-top: 100px;
+	padding: 100px 0;
+	background: var(--color--tertiary);
+
+	svg {
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+
+	ul {
+		display: flex;
+		gap: 20px;
+		justify-content: center;
+		align-items: center;
+
+		li {
+			a {
+				color: #222;
+			}
+		}
+	}
+
+	a {
+		color: #222;
+
+		&:hover {
+			color: var(--color--primary);
+		}
+	}
+
+	.social {
+		display: inline-block;
+		margin: 0 10px;
+	}
+}

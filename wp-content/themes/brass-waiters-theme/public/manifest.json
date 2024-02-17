@@ -1,0 +1,20 @@
+{
+  "scripts/editor.js": "scripts/editor.js?id=f8d053395815a78e996362189e6eb018",
+  "scripts/main.js": "scripts/main.js?id=7e5055f660b99952804ff0bd4156ba2e",
+  "styles/main.css": "styles/main.css?id=bc42e9ac785307b87dd5989c0a50df40",
+  "styles/critical.css": "styles/critical.css?id=8cea051af52f037d240b53ccaf7d3db9",
+  "styles/front-page.css": "styles/front-page.css?id=fcde263c7581bc2de399e45e3a78b167",
+  "styles/editor.css": "styles/editor.css?id=c08b6e2cbaac25a8892d410f056beb58",
+  "images/horn.svg": "images/horn.svg?id=6d7a49c05049728216b3e869b1fb08d3",
+  "images/loading.svg": "images/loading.svg?id=60cf837894c5e438bf22980e659f8bc4",
+  "fonts/open-sans-v34-latin-700.eot": "fonts/open-sans-v34-latin-700.eot?id=735083a1220f6bde4ef1576b589ad9ca",
+  "fonts/open-sans-v34-latin-700.svg": "fonts/open-sans-v34-latin-700.svg?id=983dfda94eb1e7dd961f7db2766fe7a6",
+  "fonts/open-sans-v34-latin-700.ttf": "fonts/open-sans-v34-latin-700.ttf?id=3cecd51f2ed69cde72e0462e4682f37b",
+  "fonts/open-sans-v34-latin-700.woff": "fonts/open-sans-v34-latin-700.woff?id=4be7ff7d5bc1aa3da2a65b11b472f4c6",
+  "fonts/open-sans-v34-latin-700.woff2": "fonts/open-sans-v34-latin-700.woff2?id=15c4e71e38da75485a397af3abcb4537",
+  "fonts/open-sans-v34-latin-regular.eot": "fonts/open-sans-v34-latin-regular.eot?id=e73fdb602ee2fd5e81fc4d4c06f89281",
+  "fonts/open-sans-v34-latin-regular.svg": "fonts/open-sans-v34-latin-regular.svg?id=ef2d64835bd5d82bb00958df6305c634",
+  "fonts/open-sans-v34-latin-regular.ttf": "fonts/open-sans-v34-latin-regular.ttf?id=0017fa9d7ee7bc49c897f110830cc35a",
+  "fonts/open-sans-v34-latin-regular.woff": "fonts/open-sans-v34-latin-regular.woff?id=579a3fdb038670dd221911f73abd74ab",
+  "fonts/open-sans-v34-latin-regular.woff2": "fonts/open-sans-v34-latin-regular.woff2?id=7f433505a80d7b391fe03f083af47cf3"
+}

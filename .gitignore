@@ -1,5 +1,3 @@
-# Custom Ignores #
-##################
 
 # WordPress Core/Uploads etc #
 ##############################
@@ -71,3 +69,8 @@ Thumbs.db
 .sass-cache/
 node_modules/
 sass-structure.txt
+
+
+# Custom Ignores #
+##################
+!wp-content/plugins/gravity-forms-pro

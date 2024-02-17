@@ -1,0 +1,42 @@
+@use '../utils' as *;
+
+main {
+	// padding: 30px 0 100px 0;
+
+	h2 {
+		color: var(--color--dark);
+		margin-bottom: 40px;
+		font-size: 38px;
+
+		span {
+			color: var(--color--primary);
+			font-family: 'Noto Serif', serif;
+		}
+	}
+}
+
+.gform_wrapper {
+	input,
+	textarea,
+	select {
+		appearance: none;
+		border: 2px solid #999;
+		border-radius: 5px;
+		padding: 15px 10px !important;
+		line-height: 20px !important;
+		font-size: 16px !important;
+		background-color: #fff;
+	}
+
+	input[type='submit'] {
+		padding: 15px 60px !important;
+		background-color: var(--color--primary);
+		color: #fff;
+		font-family: 'Noto Serif', serif;
+		font-size: 18px;
+		border: 0;
+	}
+	.ginput_container_date input {
+		width: 100% !important;
+	}
+}

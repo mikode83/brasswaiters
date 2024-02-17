@@ -1,0 +1,16 @@
+@forward 'common/reset';
+@forward 'common/colours';
+
+// load css inside acfe preview section ONLY
+@use 'sass:meta';
+
+.editor-styles-wrapper {
+	@include meta.load-css('common');
+
+	// .btn,
+	// a,
+	// button {
+	// 	pointer-events: none;
+	// 	cursor: none;
+	// }
+}

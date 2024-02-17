@@ -1,0 +1,34 @@
+@use '../utils' as *;
+
+.form {
+	input[type='checkbox'] {
+		appearance: checkbox;
+		flex: 0 0 auto; //safari fix
+		accent-color: wp-color(primary);
+	}
+
+	&.ajaxing {
+		position: relative;
+
+		& * {
+			pointer-events: none;
+			opacity: 0.6;
+		}
+
+		&:before {
+			opacity: 1;
+			content: '';
+			width: 128px;
+			height: 128px;
+			background-image: url('../images/loading.svg');
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			z-index: 10;
+		}
+	}
+}
