@@ -74,3 +74,4 @@ sass-structure.txt
 # Custom Ignores #
 ##################
 !wp-content/plugins/gravity-forms-pro
+!wp-content/plugins/gravityforms
